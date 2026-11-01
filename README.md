@@ -1,0 +1,1 @@
+Make sure that your project has a live server (Port 5500). And please DO NOT CHANGE the Client ID because that's for the project and with out it the project won't connect to the Project and it won't connect to your Spotify account.
